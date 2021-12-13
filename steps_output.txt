@@ -9,7 +9,7 @@
 
 # Return list of tuples containing matched string, line numbers and lines where string is found
 
-# Check if string 'is' is found in file 'sample.txt'
+# Check if string 'with' ,'and'  is found in file 'test_file.txt'
 
 
 
