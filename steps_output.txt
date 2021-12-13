@@ -1,0 +1,20 @@
+"""Get line from the file along with line numbers, which contains any string from the list"""
+# Open the file in read only mode
+
+# Read all lines in the file one by one
+
+# For each line, check if line contains any string from the list of string
+
+# If any string is found in line, then append that line along with line number in list
+
+# Return list of tuples containing matched string, line numbers and lines where string is found
+
+# Check if string 'is' is found in file 'sample.txt'
+
+
+
+
+Outpur:-
+
+Check string exists  
+[('with', 2, 'Another phrase with spaces Another phrase with spaces'), ('no', 2, 'Another phrase with spaces Another phrase with spaces'), ('with', 3, 'A phrase with spaces and some punctuation'), ('with', 4, 'A phrase with spaces and some punctuation'), ('with', 5, 'Another phrase with spaces'), ('no', 5, 'Another phrase with spaces'), ('with', 8, 'A phrase with spaces and some punctuation Hello how are you')]
